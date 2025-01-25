@@ -1,0 +1,5 @@
+chrome_profile: "/home/username/.config/google-chrome/Default/Cookies"
+domains:
+  - "youtube.com"
+  - "instagram.com"
+output_path: "/home/username/cookies.txt"
